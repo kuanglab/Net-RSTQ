@@ -6,4 +6,4 @@ Please put the aligned bam file(s) by human hg19 annotation in the Data folder u
 (3)'MainTest.m' is the main script to run the Net-RSTQ algorithm. 
 
 Citation:
-Zhang, Wei, Takayo Ota, Viji Shridhar, Jeremy Chien, Baolin Wu, and Rui Kuang. "Network-based survival analysis reveals subnetwork signatures for predicting outcomes of ovarian cancer treatment." PLoS computational biology 9, no. 3 (2013): e1002975.
+Zhang, Wei, Jae-Woong Chang, Lilong Lin, Kay Minn, Baolin Wu, Jeremy Chien, Jeongsik Yong, Hui Zheng, and Rui Kuang. "Network-based isoform quantification with RNA-seq data for cancer transcriptome analysis." PLoS computational biology 11, no. 12 (2015): e1004465.
